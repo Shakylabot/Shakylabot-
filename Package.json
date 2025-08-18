@@ -1,0 +1,15 @@
+{
+  "name": "shakyla-family-bot",
+  "version": "1.1.0",
+  "description": "Shakyla AI Family — independent mode, council chat + approval flows",
+  "type": "module",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.55.0",
+    "express": "^4.19.2"
+  }
+}
